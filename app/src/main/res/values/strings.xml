@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="tip_percent">Tip Percentage</string>
+    <string name="tip_hint">Enter Bill Amount</string>
+    <string name="calculate_button">Calculate Tip</string>
+    <string name="exit">Exit</string>
+    <string name="exitTitle">Close App</string>
+    <string name="exitMessage">Placed the Tip?</string>
+    <string name="yes">Done</string>
+    <string name="no">Wait!</string>
+</resources>
